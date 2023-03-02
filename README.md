@@ -7,6 +7,8 @@ ANU QRNG is a project which is operated by researchers from the Australian Natio
 
 This handy utility uses the ANU QRNG random number stream to combine psuedo-random and quantum random numbers to generate a password of arbitary length.
 
+Making use of psuedo-random sampling in addition to a quantum random data seed, provides additional guarantees.
+
 *References:*
 
 [ANU QRNG Project](https://qrng.anu.edu.au/)
