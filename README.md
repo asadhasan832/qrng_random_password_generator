@@ -9,5 +9,7 @@ This handy utility uses the ANU QRNG random number stream to combine psuedo-rand
 
 References:
 [ANU QRNG Project](https://qrng.anu.edu.au/)
+
 [Real time demonstration of high bitrate quantum random number generation with coherent laser light](https://aip.scitation.org/doi/10.1063/1.3597793)
+
 [How to create a strong random password generator in python?](https://www.bhutanpythoncoders.com/how-to-create-a-strong-random-password-generator-in-python/)
