@@ -2,7 +2,7 @@
 import random
 import string
 import urllib.request
- 
+
 password_length = int(input("Enter the length of password:"))
 def generatingPassword(quantum_seed):
     password = random.sample(quantum_seed, password_length)
