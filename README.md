@@ -9,6 +9,15 @@ This handy utility uses the ANU QRNG random number stream to combine psuedo-rand
 
 Making use of psuedo-random sampling in addition to a quantum random data seed, provides additional guarantees.
 
+## Usage Instructions
+- Install `python3` on your machine
+- Install `git` on your machine
+```bash
+git clone https://github.com/asadhasan832/qrng_random_password_generator.git
+cd qrng_random_password_generator
+./make_password_qrng.py
+```
+
 *References:*
 
 [ANU QRNG Project](https://qrng.anu.edu.au/)
