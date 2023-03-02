@@ -1,4 +1,5 @@
-# Random Password Generator using Quantum Random Number Generation
+# ANU QRNG Random Password Generator
+## Random Password Generator using Quantum Random Number Generation
 
 Generating reliable and secure random password credential is a difficult problem to solve. If human password generation is used then valuable physiological load is expended, whereas using psuedo-random password generation has entropy convergence concerns.
 
