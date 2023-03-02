@@ -8,6 +8,6 @@ ANU QRNG is a project which is operated by researchers from the Australian Natio
 This handy utility uses the ANU QRNG random number stream to combine psuedo-random and quantum random numbers to generate a password of arbitary length.
 
 References:
-[https://qrng.anu.edu.au/](ANU QRNG Project)
-[https://aip.scitation.org/doi/10.1063/1.3597793](Real time demonstration of high bitrate quantum random number generation with coherent laser light)
-[https://www.bhutanpythoncoders.com/how-to-create-a-strong-random-password-generator-in-python/](How to create a strong random password generator in python?)
+[ANU QRNG Project](https://qrng.anu.edu.au/)
+[Real time demonstration of high bitrate quantum random number generation with coherent laser light](https://aip.scitation.org/doi/10.1063/1.3597793)
+[How to create a strong random password generator in python?](https://www.bhutanpythoncoders.com/how-to-create-a-strong-random-password-generator-in-python/)
