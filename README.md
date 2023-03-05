@@ -5,7 +5,7 @@ Generating reliable and secure random password credentials is a difficult proble
 
 ANU QRNG is a project which is operated by researchers from the Australian National University, and makes use of quantum physics to generate random numbers using broadband measurements of the vacuum field contained in the radio-frequency sidebands of a single-mode laser.
 
-This handy utility uses the ANU QRNG random number stream to combine psuedo-random and quantum random numbers to generate a password of arbitary length.
+This handy utility uses the ANU QRNG random number stream to combine psuedo-random and quantum random numbers to generate a password of arbitrary length.
 
 Making use of psuedo-random sampling in addition to a quantum random data seed, provides an additional layer of hardening as the quantum random data seed is transmitted over the network.
 
